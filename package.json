@@ -1,5 +1,5 @@
 {
-  "name": "skeleton-node",
+  "name": "node-js-skeleton",
   "version": "0.0.0",
   "description": "Node.js Skeleton developed with TypeScript, using Clean Architecture concepts, Domain-Driven Design (DDD) and Test Driven Development (TDD)",
   "main": "dist/server.js",
