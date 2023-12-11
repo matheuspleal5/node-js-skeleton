@@ -62,7 +62,8 @@
         }
       }
     ],
-    "no-useless-constructor": "off"
+    "no-useless-constructor": "off",
+    "no-use-before-define": "off"
   },
   "settings": {
     "import/parsers": {
